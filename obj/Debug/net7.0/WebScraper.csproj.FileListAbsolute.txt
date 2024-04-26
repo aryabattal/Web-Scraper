@@ -12,3 +12,6 @@ C:\WorkSpace\WebScraper\obj\Debug\net7.0\refint\WebScraper.dll
 C:\WorkSpace\WebScraper\obj\Debug\net7.0\WebScraper.pdb
 C:\WorkSpace\WebScraper\obj\Debug\net7.0\WebScraper.genruntimeconfig.cache
 C:\WorkSpace\WebScraper\obj\Debug\net7.0\ref\WebScraper.dll
+C:\WorkSpace\WebScraper\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\WorkSpace\WebScraper\obj\Debug\net7.0\WebScraper.csproj.AssemblyReference.cache
+C:\WorkSpace\WebScraper\obj\Debug\net7.0\WebScraper.csproj.CopyComplete
